@@ -1,0 +1,6 @@
+{
+  "name": "Desktop Search",
+  "description": "Desktop Search - Mobile browser app with forced desktop mode, clean red Chrome UI, dynamic viewport scale slider, and PWA standalone support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

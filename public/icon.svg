@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="redBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E53935" />
+      <stop offset="100%" stop-color="#C62828" />
+    </linearGradient>
+  </defs>
+  <!-- Red Rounded iOS Squircle Background -->
+  <rect width="512" height="512" rx="112" fill="url(#redBase)"/>
+
+  <!-- Pure White Desktop Monitor -->
+  <rect x="76" y="92" width="360" height="236" rx="20" fill="none" stroke="#FFFFFF" stroke-width="20"/>
+  
+  <!-- Monitor Stand & Base -->
+  <path d="M226 328 L210 408 L302 408 L286 328 Z" fill="#FFFFFF"/>
+  <rect x="160" y="408" width="192" height="20" rx="10" fill="#FFFFFF"/>
+
+  <!-- Pure White Search Glass Inside Desktop Screen -->
+  <circle cx="232" cy="192" r="46" fill="none" stroke="#FFFFFF" stroke-width="18"/>
+  <line x1="266" y1="226" x2="318" y2="278" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- Subtle Top Window Dots in White -->
+  <circle cx="116" cy="126" r="8" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="138" cy="126" r="8" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="160" cy="126" r="8" fill="#FFFFFF" opacity="0.6"/>
+</svg>
